@@ -7,10 +7,10 @@ namespace CookNook.Services
     /// </summary>
     internal class DbConn
     {
-        private const string dbPassword = "0eQSU1bp88pfd5hxYpfShw";
-        private const string dbUsername = "adeel";
+        private const string dbPassword = "REDACTED";
+        private const string dbUsername = "";
         private const int PORT_NUMBER = 26257;
-        private const string dbHost = "third-sphinx-13032.5xj.cockroachlabs.cloud";
+        private const string dbHost = "cockroachlabs.cloud";
         private const string dbName = "defaultdb";
 
         /// <summary>
